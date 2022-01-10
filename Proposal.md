@@ -12,9 +12,9 @@
 
 1. What is the question behind your analysis? What is the purpose of the model/system you plan to build?
 
-      - Autonomous driving vehicles require consistent object detection methods in order to make decisions in real time in response to environmental variables. Light Detection and Ranging (LiDAR) is a remote sensing method for determining variable using eye-safe laser beams which can provide consistent images for object detection, regardless of environmental factors like weather or light conditions.
+      - Autonomous driving vehicles require consistent object detection methods in order to make decisions in real time in response to environmental variables. Light Detection and Ranging (LiDAR) is a remote sensing method for determining variable distance using eye-safe laser beams which can provide consistent images for object detection, regardless of environmental factors like weather or light conditions.
 
-      My goal for this project is to develop a deep learning model that can consistently detect objects pertinent for autonomous driving from 25 second LiDAR recordings provided by NuScenes.
+        My goal for this project is to develop a deep learning model that can consistently detect objects pertinent for autonomous driving from 25 second LiDAR recordings provided by NuScenes.
 
 
 
@@ -23,7 +23,7 @@
 
     - Autonomous vehicles can be a huge benefit for people with different abilities, like those who are blind, or those who live with epilepsy. These vehicles can also enhance ride-sharing capabilities and therefore reduce carbon emissions, reduce costs of personal transportation, provide mobility, and reduce traffic deaths.
 
-    Developing consistent and dependable deep learning models that can identify objects, predict motion, and aid in decision making is crucial to the development of these vehicles.
+      Developing consistent and dependable deep learning models that can identify objects, predict motion, and aid in decision making is crucial to the development of these vehicles.
 
 
 
