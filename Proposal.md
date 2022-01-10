@@ -31,7 +31,7 @@
 
 1. What dataset(s) do you plan to use, and how will you obtain the data?
 
-    - The dataset I will be using comes from the [nuScenes-lidarseg](https://www.nuscenes.org/nuscenes) and includes over 55,000 human labeled 3D annotated frames, a drivable surface map, and an HD spatial semantic map to contextualize the data.
+    - The dataset I will be using comes from [nuScenes-lidarseg](https://www.nuscenes.org/nuscenes) and contains 1.4 billion annotated points across 40,000 pointclouds and 1,000 scenes. 
 
 2. What is an individual sample/unit of analysis in this project?
 
