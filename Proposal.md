@@ -12,9 +12,9 @@
 
 1. What is the question behind your analysis? What is the purpose of the model/system you plan to build?
 
-      - Autonomous driving vehicles require consistent object detection methods in order to make decisions in real time in response to environmental variables. Light Detection and Ranging (LiDAR) is a remote sensing method for determining variable distance using eye-safe laser beams which can provide consistent images for object detection, regardless of environmental factors like weather or light conditions.
+      - Autonomous driving vehicles require consistent object detection methods in order to make decisions in real time in response to environmental variables. Light Detection and Ranging (LiDAR) is a remote sensing method for determining variable using eye-safe laser beams which can provide consistent images for object detection, regardless of environmental factors like weather or light conditions.
 
-        My goal for this project is to develop a deep learning model that can consistently detect objects pertinent for autonomous driving from 25 second LiDAR recordings provided by NuScenes.
+        My goal for this project is to develop a deep learning model that can consistently detect objects pertinent for autonomous driving from 25 second LiDAR recordings provided by Lyft.
 
 
 
@@ -31,7 +31,7 @@
 
 1. What dataset(s) do you plan to use, and how will you obtain the data?
 
-    - The dataset I will be using comes from [nuScenes-lidarseg](https://www.nuscenes.org/nuscenes) and contains 1.4 billion annotated points across 40,000 pointclouds and 1,000 scenes. 
+    - The dataset I will be using comes from the [Lyft Level 5 Open Data](https://level-5.global/download/) and includes over 55,000 human labeled 3D annotated frames, a drivable surface map, and an HD spatial semantic map to contextualize the data.
 
 2. What is an individual sample/unit of analysis in this project?
 
