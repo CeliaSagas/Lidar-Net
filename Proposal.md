@@ -1,4 +1,4 @@
-![Banner](https://github.com/CeliaSagas/Toxic-Rank/blob/cd126104b0888344df38e08faaf918457d3d12a1/img/Toxic%20Rank.jpg)
+![Banner](https://github.com/CeliaSagas/Lidar-Net/blob/394ca201bff3ef4ecdc1b805da835338b488298e/img/Lidar-Net.jpeg)
 
 
 
