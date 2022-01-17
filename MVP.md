@@ -22,15 +22,15 @@ Lidar point clouds are represent 3d space by returning depth and light informati
 
 Thanks to the Nuscenes Devkit and the work of Gustavo Salazar-Gomez et. al in "High Level camera-LiDAR fusion for 3D object detection with machine learning", I have been able to render the bounding box for objects in the dataset:
 
-![3D Bounding Box ](https://github.com/CeliaSagas/Toxic-Rank/blob/5cfdd40f8d814b721ee9dce6eaef922ac6ae9ec9/img/Count_Vectorize.png)
+![3D Bounding Box ](https://github.com/CeliaSagas/Lidar-Net/blob/3dbac82c9b68ec1405c1a0d11776856f8590d9a6/img/1.png)
 
 Compute the 2D bounding box:
 
-![2D Bounding Box ](https://github.com/CeliaSagas/Toxic-Rank/blob/5cfdd40f8d814b721ee9dce6eaef922ac6ae9ec9/img/Count_Vectorize.png)
+![2D Bounding Box ](https://github.com/CeliaSagas/Lidar-Net/blob/3dbac82c9b68ec1405c1a0d11776856f8590d9a6/img/2.png)
 
 And compute the point cloud for the segmented field
 
-![Segmented Point Cloud ](https://github.com/CeliaSagas/Toxic-Rank/blob/5cfdd40f8d814b721ee9dce6eaef922ac6ae9ec9/img/Count_Vectorize.png)
+![Segmented Point Cloud ](https://github.com/CeliaSagas/Lidar-Net/blob/3dbac82c9b68ec1405c1a0d11776856f8590d9a6/img/3.png)
 
 
-My next steps are to reduce the segmented point clouds to a Range Images, and then use them as a training set for a U-Net. 
+My next steps are to reduce the segmented point clouds to a Range Images, and then use them as a training set for a U-Net.
