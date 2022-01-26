@@ -52,10 +52,9 @@ Different approaches for point cloud classification were considered, including u
 
 **PoinNet Final Scores**
 
-  -	Sparse Categorical Accuracy: 83.5%
-  -	validation Sparse Categorical Accuracy: 83.3%
-  -	Validation Loss : 1.56
-  -	Epochs before early stopping: 38
+  -	Validation Accuracy: 78.9%
+  -	Validation AUC : 86.5
+
 
 
 **Tools**

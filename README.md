@@ -7,9 +7,7 @@
 3D Object Detection with point-cloud LiDAR for Autonomous Driving Vehicles
 
 
-Autonomous driving vehicles require consistent object detection methods in order to make decisions in real time in response to environmental variables.
-
-Light Detection and Ranging (LiDAR) is a remote sensing method for determining variable using eye-safe laser beams which can provide consistent images for object detection, regardless of environmental factors like weather or light conditions.
+Autonomous driving vehicles require consistent object detection methods in order to make decisions in real time in response to environmental variables. Light Detection and Ranging (LiDAR) is a remote sensing method for determining variable using eye-safe laser beams which can provide consistent images for object detection, regardless of environmental factors like weather or light conditions.
 
 The goal for this project is to develop a deep learning model that can consistently detect vehicles in point clouds recorded from LiDAR scans.
 
@@ -55,10 +53,9 @@ Different approaches for point cloud classification were considered, including u
 
 **PoinNet Final Scores**
 
-  -	Sparse Categorical Accuracy: 83.5%
-  -	validation Sparse Categorical Accuracy: 83.3%
-  -	Validation Loss : 1.56
-  -	Epochs before early stopping: 38
+  -	Validation Accuracy: 78.9%
+  -	Validation AUC : 86.5
+
 
 
 **Tools**
