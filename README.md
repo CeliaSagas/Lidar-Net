@@ -81,3 +81,5 @@ Dataset and Instance segmentation adapted from:
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
+
+![Footer](https://github.com/CeliaSagas/Lidar-Net/blob/b662c92a34d9c722102c982b470521983cadfa0e/img/lidarfooter.png)
