@@ -69,6 +69,8 @@ Different approaches for point cloud classification were considered, including u
 Data Visualization and write-up will be shared on Medium, Celiasagastume.com, and in class through PowerPoint presentation.
 
 
+**Resources**
+
 Dataset and Instance segmentation adapted from:
 
 @misc{salazargomez2021highlevel,
