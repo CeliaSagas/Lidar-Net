@@ -11,6 +11,18 @@ Autonomous driving vehicles require consistent object detection methods in order
 
 The goal for this project is to develop a deep learning model that can consistently detect vehicles in point clouds recorded from LiDAR scans.
 
+![Category Size](https://github.com/CeliaSagas/Lidar-Net/blob/0aeb9a154fb064630662bb7df3ef88725abae54b/img/Category_Size.png)
+
+15 object classes with maximum vector length of 1,667 points and average vector length of 411 points were extracted and reclassified to a binary classification (0: Noise, 1: Vehicle_Car).
+
+![Loss Accuracy](https://github.com/CeliaSagas/Lidar-Net/blob/0aeb9a154fb064630662bb7df3ef88725abae54b/img/loss_accuracy.png)
+
+The PointNet model in Keras, a combination of convolutional layers and transformer layers, achieved a validation accuracy of 78.9% and ROC of 88.6 on vehicle detection in the dataset.
+
+![Predictions](https://github.com/CeliaSagas/Lidar-Net/blob/0aeb9a154fb064630662bb7df3ef88725abae54b/img/Pred.png)
+
+Next steps are to run PointNet on a larger dataset with multi-class detection for all 15 object classes in the dataset. 
+
 **Design**
 
 This project is inspired by current trends in autonomous driving research. The data is provided by [Nuscenes](https://www.nuscenes.org), a large-scale autonomous driving dataset with 3d object annotations. The challenge is to train a CNN to distinguish vehicles from a dataset containing all objects annotated within the Nuscenes Mini Dataset.
