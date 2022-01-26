@@ -13,12 +13,12 @@ The goal for this project is to develop a deep learning model that can consisten
 
 **Design**
 
-This project is inspired by current trends in autonomous driving research. The data is provided by ![Nuscenes](https://www.nuscenes.org), a large-scale autonomous driving dataset with 3d object annotations. The challenge is to train a CNN to distinguish vehicles from a dataset containing all objects annotated within the Nuscenes Mini Dataset.
+This project is inspired by current trends in autonomous driving research. The data is provided by [Nuscenes](https://www.nuscenes.org), a large-scale autonomous driving dataset with 3d object annotations. The challenge is to train a CNN to distinguish vehicles from a dataset containing all objects annotated within the Nuscenes Mini Dataset.
 
 
 **Data**
 
-The data is provided by ![Nuscenes](https://www.nuscenes.org), a large-scale autonomous driving dataset with 3d object annotations. The Mini Lidarseg Dataset contains 10 scenes with 1,700+ annotated 3d objects recorded in both video camera and lidar point cloud format.
+The data is provided by [Nuscenes](https://www.nuscenes.org), a large-scale autonomous driving dataset with 3d object annotations. The Mini Lidarseg Dataset contains 10 scenes with 1,700+ annotated 3d objects recorded in both video camera and lidar point cloud format.
 
 **Algorithms**
 
