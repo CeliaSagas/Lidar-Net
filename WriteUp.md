@@ -66,3 +66,14 @@ Different approaches for point cloud classification were considered, including u
 **Communication**
 
 Data Visualization and write-up will be shared on Medium, Celiasagastume.com, and in class through PowerPoint presentation.
+
+Dataset creation and instance segmentation adapted from:
+
+@misc{salazargomez2021highlevel,
+      title={High-level camera-LiDAR fusion for 3D object detection with machine learning},
+      author={Gustavo A. Salazar-Gomez and Miguel A. Saavedra-Ruiz and Victor A. Romero-Cano},
+      year={2021},
+      eprint={2105.11060},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
