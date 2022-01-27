@@ -32,7 +32,7 @@ The following transformations were performed on the data in order to support fur
   3.	Extracted the associated Point Cloud for each bounding box
   4.	Performed DB Scan Cluster Analysis to save the largest cluster within the Bounding Box
   5. Saved the refined point clouds and object labels as json file
-  6. Reshaped and padded point cloud vectors to 844 points in length for analysis using Keras pad sequences
+  6. Reshaped and padded point cloud vectors to 1024 points in length for analysis using Keras pad sequences
   7. Encoded Categories to Numerical classes using SKLearn Label Encoder
   8. Recoded classes to binary: (0: 'Noise', 1: Vehicle_car)
 
